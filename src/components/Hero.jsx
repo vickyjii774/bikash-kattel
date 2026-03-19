@@ -48,7 +48,7 @@ export default function Hero() {
       id="home"
       className="relative min-h-screen flex items-center grid-bg overflow-hidden"
       style={{
-    backgroundImage: 'url(/img4.jpeg)',
+backgroundImage: `url(${process.env.PUBLIC_URL + "/img4.jpeg"})`,
     backgroundSize: 'cover',
       backgroundPosition: 'left',
 

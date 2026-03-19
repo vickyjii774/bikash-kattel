@@ -1,6 +1,3 @@
-// =============================================
-// 🔧 EDIT THIS FILE TO UPDATE YOUR PORTFOLIO
-// =============================================
 
 export const personal = {
   name: "Bikash Kattel",
@@ -9,8 +6,8 @@ export const personal = {
   location: "Kathmandu, Nepal",
   university: "Tribhuvan University",
   degree: "B.Sc. CSIT",
-  year: "2nd Year",
-  email: "bikashkattel7@example.com",
+  year: " 2022 Present",
+  email: "bikashkattel7@gmail.com",
   github: "https://github.com/vickyjii774",
   linkedin: "https://www.linkedin.com/in/bikash-kattel-6a7748314/",
   youtube: "www.youtube.com/@bikashkattel",
@@ -112,8 +109,9 @@ export const education = [
     degree: "B.Sc. CSIT",
     school: "Tribhuvan University",
     period: "2022 – Present",
-    note: "Focused on algorithms, OS, networking, Stats and software engineering.",
+    note: "Focused on Algorithms, OS, Networking, Stats and Software engineering.",
   },
+
   {
     degree: "+2 Science ",
     school: "REHDON College",

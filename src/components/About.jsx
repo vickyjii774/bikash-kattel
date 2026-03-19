@@ -45,7 +45,11 @@ export default function About() {
                   color: 'var(--accent)',
                 }}
               >
-                <img src="/img3.jpeg" alt="Avatar" className="w-full h-full rounded-2xl" />
+               <img
+                   src={process.env.PUBLIC_URL + "/img3.jpeg"}
+                    alt="V"
+                     className="w-full h-full rounded-2xl"
+                />
               </div>
 
               {personal.bio.map((p, i) => (

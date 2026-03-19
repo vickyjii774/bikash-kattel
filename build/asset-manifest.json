@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bikash-kattel/static/css/main.485c2fb5.css",
-    "main.js": "/bikash-kattel/static/js/main.de512cfa.js",
+    "main.js": "/bikash-kattel/static/js/main.350abc7a.js",
     "index.html": "/bikash-kattel/index.html",
     "main.485c2fb5.css.map": "/bikash-kattel/static/css/main.485c2fb5.css.map",
-    "main.de512cfa.js.map": "/bikash-kattel/static/js/main.de512cfa.js.map"
+    "main.350abc7a.js.map": "/bikash-kattel/static/js/main.350abc7a.js.map"
   },
   "entrypoints": [
     "static/css/main.485c2fb5.css",
-    "static/js/main.de512cfa.js"
+    "static/js/main.350abc7a.js"
   ]
 }

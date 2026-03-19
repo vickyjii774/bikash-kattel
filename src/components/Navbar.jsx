@@ -83,10 +83,9 @@ export default function Navbar() {
               }}
             >
               <img
-                src="/img1.jpeg"
-                alt="Logo"
-                style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-              />
+               src={process.env.PUBLIC_URL + "/img1.jpeg"}
+               alt="Logo"
+               />
             </span>
             <span
               className="font-mono font-bold text-sm"
