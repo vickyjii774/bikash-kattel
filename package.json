@@ -2,7 +2,7 @@
   "name": "bikash-kattel",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://vickyjii774.github.io/bikash-kattel",
+  "homepage": "/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
