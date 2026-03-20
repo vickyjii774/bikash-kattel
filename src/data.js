@@ -59,7 +59,7 @@ export const projects = [
     desc: "A Ecommercal website built with JavaScript, PHP, CSS, and HTML. It features a user-friendly interface for browsing and purchasing watches, along with a secure backend for managing products and orders.",
     tags: ["JavaScript","PHP", "CSS", "HTML", "Full Stack"],
     status: "done",
-    github: "https://github.com/vickyjii774/WATCHY",
+    github: "https://github.com/vickyjii774/Ecommercewatch",
     live: "https://watchy.infinityfreeapp.com/home.php",
     
   },
