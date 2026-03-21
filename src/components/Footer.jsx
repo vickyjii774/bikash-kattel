@@ -10,7 +10,7 @@ export default function Footer() {
         <span className="font-mono text-xs" style={{ color: 'var(--muted)' }}>
           © {new Date().getFullYear()}{' '}
           <span style={{ color: 'var(--accent)' }}>{personal.name}</span>
-          {' '}— CSIT Student, Nepal
+          {' '}- Kathmandu , Nepal
         </span>
         
       </div>
