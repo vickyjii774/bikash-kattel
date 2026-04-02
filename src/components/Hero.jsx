@@ -6,6 +6,7 @@ const roles = [
   'Web Developer',
   'Explorer',
   'Learner',
+  'Enthusiast',
 ];
 
 export default function Hero() {
