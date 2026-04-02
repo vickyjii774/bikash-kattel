@@ -18,7 +18,7 @@ export const personal = {
 ,
   ],
   
-  interests: ["Explorer","Developing business strategies and innovative concept", "Sports Enthusiast", "Building Meaningful Connection" ],
+  interests: ["Explorer","Developing Strategies into Innovative Concept", "Sports Enthusiast", "Building Connection" ],
 };
 
 export const skills = [
