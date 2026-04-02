@@ -176,29 +176,6 @@ backgroundImage: `url(${process.env.PUBLIC_URL + "/img4.jpeg"})`,
             </a>
           </div>
           
-{/*
-            Stats (uncomment if you want to add some quick stats about yourself)
-         { <div className="flex flex-wrap gap-8">
-            {[
-              { value: '2+', label: 'Years Learning' },
-              { value: '10+', label: 'Projects Built' },
-              { value: 'CSIT', label: 'Degree Track' },
-            ].map(stat => (
-              <div key={stat.label}>
-                <div
-                  className="font-mono font-bold text-3xl"
-                  style={{ color: 'var(--accent)' }}
-                >
-                  {stat.value}
-                </div>
-                <div className="font-mono text-xs mt-1" style={{ color: 'var(--muted)' }}>
-                  {stat.label}
-                </div>
-              </div>
-            ))}
-          </div>}
-          
-*/}
 
         </div>
       </div>
