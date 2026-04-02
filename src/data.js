@@ -22,25 +22,23 @@ export const personal = {
 };
 
 export const skills = [
-  { name: "C / C++",       level: 70, category: "Languages" },
+  { name: "C / C++",       level: 75, category: "Languages" },
   { name: "Python",         level: 55, category: "Languages" },
   { name: "Java",           level: 55, category: "Languages" },
-  { name: "JavaScript",     level: 62, category: "Languages" },
+  { name: "JavaScript",     level: 65, category: "Languages" },
 
   { name: "HTML ",     level: 85, category: "Web" },
-  { name: "CSS ",     level: 70, category: "Web" },
-  { name: "React.js",       level: 61, category: "Web" },
+  { name: "CSS ",     level: 75, category: "Web" },
+  { name: "React.js",       level: 63, category: "Web" },
   { name: "Tailwind CSS",   level: 60, category: "Web" },
   { name: "Node.js",        level: 40, category: "Web" },
   { name: "PHP",            level: 69, category: "Web" },
 
   { name: "Statistics",    level: 75, category: "Database & Tools" },
-
   { name: "MySQL",          level: 70, category: "Database & Tools" },
   { name: "MongoDB",        level: 50, category: "Database & Tools" },
-  { name: "Git & GitHub",   level: 68, category: "Database & Tools" },
-  { name: "Linux",          level: 52, category: "Database & Tools" },
-  { name: "VS Code",        level: 80, category: "Database & Tools" },
+  { name: "Git & GitHub",   level: 65, category: "Database & Tools" },
+
 ];
 
 // Status: "done" | "wip" | "planned"
@@ -85,7 +83,7 @@ export const projects = [
   },
   {
     title: "PHP Web Project",
-    desc: "A PHP-based web application. Add a description to your GitHub README and update this card to match.",
+    desc: "A PHP-based web application.",
     tags: ["PHP", "Web"],
     status: "done",
     github: "https://github.com/vickyjii774/project",
