@@ -24,7 +24,7 @@ export const personal = {
 export const skills = [
   { name: "C / C++",       level: 75, category: "Languages" },
   { name: "Python",         level: 55, category: "Languages" },
-  { name: "Java",           level: 55, category: "Languages" },
+  { name: "Java",           level: 45, category: "Languages" },
   { name: "JavaScript",     level: 65, category: "Languages" },
 
   { name: "HTML ",     level: 85, category: "Web" },
@@ -33,6 +33,8 @@ export const skills = [
   { name: "Tailwind CSS",   level: 60, category: "Web" },
   { name: "Node.js",        level: 40, category: "Web" },
   { name: "PHP",            level: 69, category: "Web" },
+    { name: "Django",          level: 55, category: "Web" },
+
 
   { name: "Statistics",    level: 75, category: "Database & Tools" },
   { name: "MySQL",          level: 70, category: "Database & Tools" },
