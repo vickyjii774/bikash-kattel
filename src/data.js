@@ -96,7 +96,7 @@ export const projects = [
    {
     title: " Practice Projects",
      desc:"A collection of React components and mini-projects built while learning the React ecosystem — including hooks, state management, and component patterns. Also includes backend development experience using Django and Python structure."
-    tags: ["React", "JavaScript", "Python", "Django"],
+    tags: ["React", , "Django", "JavaScript", "Python"],
     status: "wip",
     github: "",
     live: null,
