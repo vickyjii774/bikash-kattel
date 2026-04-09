@@ -138,7 +138,7 @@ export default function Contact() {
               className="font-mono text-sm mb-12"
               style={{ color: 'var(--muted)', lineHeight: '1.9' }}
             >
-              Whether you want to collaborate, chat about tech, or just say hello —
+              Whether you want to collaborate, chat , or just say hello —
               fill out the form and I'll get back to you.
             </p>
 
