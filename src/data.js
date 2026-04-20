@@ -92,11 +92,20 @@ export const projects = [
     live: null,
    
   },
+
+   {
+  title: "Full Stack Projects (React + Django)",
+  desc: "A collection of full-stack projects combining React for frontend development and Django for backend APIs, including authentication systems, state management, and database-driven applications.",
+  tags: ["React", "Django", "JavaScript", "Python"],
+  status: "wip",
+  github: "",
+  live: null,
+},
   
    {
     title: " Practice Projects",
-    desc:"A collection of React components and mini-projects built while learning the React ecosystem — including hooks, state management, and component patterns. Also includes backend development experience using Django and Python structure.",
-    tags: ["React", , "Django", "JavaScript", "Python"],
+    desc:"A collection of React components and mini-projects built while learning the React ecosystem — including hooks, state management, and component patterns. ",
+    tags: ["React",  "JavaScript"],
     status: "wip",
     github: "",
     live: null,
