@@ -51,7 +51,7 @@ export const projects = [
     tags: ["JavaScript", "CSS", "HTML", "Full Stack"],
     status: "done",
     github: "https://github.com/vickyjii774/bizsewaa",
-    live: null,
+    live: "https://bizsewaa.vercel.app/",
     
   },
    {
@@ -76,11 +76,11 @@ export const projects = [
  
   {
     title: "Petzy",
-    desc: "A JavaScript project exploring core web development concepts. Replace this description once you add a README to the repo.",
+    desc: "A JavaScript project exploring core web development concepts.",
     tags: ["JavaScript", "Web"],
     status: "done",
     github: "https://github.com/vickyjii774/petzyy",
-    live: null,
+    live: "https://petzyy.vercel.app/",
    
   },
   {
