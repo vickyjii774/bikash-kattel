@@ -102,15 +102,7 @@ export const projects = [
   live: null,
 },
   
-   {
-    title: " Practice Projects",
-    desc:"A collection of React components and mini-projects built while learning the React ecosystem — including hooks, state management, and component patterns. ",
-    tags: ["React",  "JavaScript"],
-    status: "wip",
-    github: "",
-    live: null,
-   
-  },
+
 
 ];
 
