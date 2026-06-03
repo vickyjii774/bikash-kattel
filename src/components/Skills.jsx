@@ -121,18 +121,7 @@ export default function Skills() {
               background: 'rgba(0,102,255,0.04)',
             }}
           >
-            <div
-              className="w-10 h-10 rounded-xl flex items-center justify-center text-lg flex-shrink-0"
-              style={{ background: 'rgba(0,102,255,0.1)' }}
-            >
-            📈
-            </div>
-            <div>
-              <p className="font-mono font-bold text-sm" style={{ color: 'var(--text)' }}>
-                Always leveling up
-              </p>
-              
-            </div>
+          
           </div>
         </div>
       </div>
