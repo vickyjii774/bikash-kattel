@@ -113,14 +113,7 @@ export default function Skills() {
             ))}
           </div>
 
-          {/* Note card */}
-          <div
-            className="p-5 rounded-2xl border flex flex-wrap items-center gap-4"
-            style={{
-              borderColor: 'rgba(0,102,255,0.2)',
-              background: 'rgba(0,102,255,0.04)',
-            }}
-          >
+         
           
           </div>
         </div>
