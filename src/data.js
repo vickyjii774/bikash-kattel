@@ -37,6 +37,7 @@ export const skills = [
 
 
   { name: "Statistics",    level: 75, category: "Database & Tools" },
+  { name: "Figma",   level: 55, category: "Database & Tools" },
   { name: "MySQL",          level: 70, category: "Database & Tools" },
   { name: "MongoDB",        level: 50, category: "Database & Tools" },
   { name: "Git & GitHub",   level: 65, category: "Database & Tools" },
