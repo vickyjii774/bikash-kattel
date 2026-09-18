@@ -9,7 +9,7 @@ export const personal = {
   year: " 2022 Present",
   email: "bikashkattel7@gmail.com",
   github: "https://github.com/vickyjii774",
-  linkedin: "https://www.linkedin.com/in/bikash-kattel-6a7748314/",
+  linkedin: "https://www.linkedin.com/in/bikash-kattel/"
   youtube: "www.youtube.com/@bikashkattel",
 
   bio: [
@@ -33,7 +33,7 @@ export const skills = [
   { name: "Tailwind CSS",   level: 60, category: "Web" },
   { name: "Node.js",        level: 40, category: "Web" },
   { name: "PHP",            level: 69, category: "Web" },
-    { name: "Django",          level: 55, category: "Web" },
+    { name: "Django",          level: 60, category: "Web" },
 
 
   { name: "Statistics",    level: 75, category: "Database & Tools" },
@@ -46,6 +46,17 @@ export const skills = [
 
 // Status: "done" | "wip" | "planned"
 export const projects = [
+
+{
+  title: "Rural Resource Allocation Management System",
+  desc: "A production-ready web application for optimally allocating educational resources to rural schools in Nepal. It uses MCDA (Multi-Criteria Decision Analysis) to rank schools based on deprivation level and a Greedy Algorithm to fairly allocate budgets while respecting defined constraints.",
+  tags: ["React", "Django", "JavaScript", "Python"],
+  status: "done",
+  github: "https://github.com/vickyjii774/ruralresource",
+  live: null,
+},
+
+  
   {
     title: "BizSewa — Digital Business Renewal",
     desc: "A full-stack digital business renewal system with separate frontend and backend. Built with JavaScript and CSS to streamline business registration and renewal workflows.",
@@ -93,13 +104,15 @@ export const projects = [
     live: null,
    
   },
+  
 
-   {
-  title: "Full Stack Projects (React + Django)",
-  desc: "A collection of full-stack projects combining React for frontend development and Django for backend APIs, including authentication systems, state management, and database-driven applications.",
-  tags: ["React", "Django", "JavaScript", "Python"],
+
+{
+  title: "Sugandhika",
+  desc: "Pure Eco-Friendly Fragrance & Organic Mosquito Solutions ",
+  tags: ["React", "TypeScript", "JavaScript"],
   status: "wip",
-  github: "",
+  github: "h",
   live: null,
 },
   
