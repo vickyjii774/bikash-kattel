@@ -9,7 +9,7 @@ export const personal = {
   year: " 2022 Present",
   email: "bikashkattel7@gmail.com",
   github: "https://github.com/vickyjii774",
-  linkedin: "https://www.linkedin.com/in/bikash-kattel/"
+  linkedin: "https://www.linkedin.com/in/bikash-kattel/",
   youtube: "www.youtube.com/@bikashkattel",
 
   bio: [
@@ -86,15 +86,16 @@ export const projects = [
     
   },
  
-  {
-    title: "Petzy",
-    desc: "A JavaScript project exploring core web development concepts.",
-    tags: ["JavaScript", "Web"],
-    status: "done",
-    github: "https://github.com/vickyjii774/petzyy",
-    live: "https://petzyy.vercel.app/",
-   
-  },
+
+{
+  title: "Petzy",
+  desc: "A pet shop e-commerce website built with React, JavaScript, HTML, and CSS, where users can browse and purchase a variety of food and essential items for their pets through a simple and user-friendly interface.",
+  tags: ["React", "JavaScript", "HTML", "CSS", "E-Commerce"],
+  status: "done",
+  github: "https://github.com/vickyjii774/petzyy",
+  live: "https://petzyy.vercel.app/",
+},
+
   {
     title: "PHP Web Project",
     desc: "A PHP-based web application.",
