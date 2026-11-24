@@ -23,23 +23,26 @@ export const personal = {
 
 export const skills = [
   { name: "C / C++",       level: 75, category: "Languages" },
-  { name: "Python",         level: 55, category: "Languages" },
+  { name: "Python",         level: 60, category: "Languages" },
   { name: "Java",           level: 45, category: "Languages" },
   { name: "JavaScript",     level: 65, category: "Languages" },
 
   { name: "HTML ",     level: 85, category: "Web" },
   { name: "CSS ",     level: 75, category: "Web" },
-  { name: "React.js",       level: 63, category: "Web" },
-  { name: "Tailwind CSS",   level: 60, category: "Web" },
-  { name: "Node.js",        level: 40, category: "Web" },
+  { name: "React.js",       level: 75, category: "Web" },
+  { name: "Tailwind CSS",   level: 65, category: "Web" },
+  { name: "Node.js",        level: 50, category: "Web" },
   { name: "PHP",            level: 69, category: "Web" },
     { name: "Django",          level: 60, category: "Web" },
+    { name: "Next.js",          level: 50, category: "Web" },
+  
 
 
   { name: "Statistics",    level: 75, category: "Database & Tools" },
-  { name: "Figma",   level: 55, category: "Database & Tools" },
+  { name: "Figma",   level: 45, category: "Database & Tools" },
   { name: "MySQL",          level: 70, category: "Database & Tools" },
   { name: "MongoDB",        level: 50, category: "Database & Tools" },
+    { name: "PostgreSQL",        level: 65, category: "Database & Tools" },
   { name: "Git & GitHub",   level: 65, category: "Database & Tools" },
 
 ];
@@ -66,6 +69,25 @@ export const projects = [
     live: "https://bizsewaa.vercel.app/",
     
   },
+
+  {
+  title: "Sugandhika",
+  desc: " Sugandhika — Pure Eco Fragrance Natural, premium, and eco-friendly herbal fragrance products from Nepal. ",
+  tags: ["React", "TypeScript", "JavaScript", "PostgreSQL "],
+  status: "done",
+  github: "https://github.com/vickyjii774/sugandhika",
+  live: "https://sugandhika-beryl.vercel.app/",
+},
+  
+  {
+  title: "Personal Portfolio",
+  desc: " Bikash Kattel Personal portfolio",
+  tags: ["React",  "JavaScript" ],
+  status: "done",
+  github: "https://github.com/vickyjii774/bikash-kattel",
+  live: "https://bikashkattel.com.np/",
+},
+  
    {
     title: "Watchy",
     desc: "A Ecommercal website built with JavaScript, PHP, CSS, and HTML. It features a user-friendly interface for browsing and purchasing watches, along with a secure backend for managing products and orders.",
@@ -105,17 +127,17 @@ export const projects = [
     live: null,
    
   },
-  
-
-
-{
-  title: "Sugandhika",
-  desc: "Pure Eco-Friendly Fragrance & Organic Mosquito Solutions ",
-  tags: ["React", "TypeScript", "JavaScript"],
-  status: "wip",
-  github: "h",
-  live: null,
+   {
+  title: "Many More ",
+  desc: "  More on github",
+  tags: ["React",  "JavaScript" ],
+  status: "done",
+  github: "https://github.com/vickyjii774/",
+  live: "https://bikashkattel.com.np/",
 },
+
+
+
   
 
 
